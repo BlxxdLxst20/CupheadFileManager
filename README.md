@@ -11,13 +11,10 @@ Please contact BlxxdLxst_SR either on Discord or through my Speedrun.com page (p
 https://www.speedrun.com/users/BlxxdLxst_SR
 
 ## Use
-This program is executed by running Python code in Visual Studio Code or an equivalent IDE. Using the terminal also works, but is slightly inoptimal.
-This program is also built for Windows systems only at the moment, but a Mac port may be made in the future.
+This program has to be downloaded on a Windows machine, and then run by double clicking on the `CupheadFileManager.bat` file in File Explorer or on the user's Desktop. 
+After running the file, Microsoft Defender SmartScreen or some equivalent antivirus program may appear and warn the user that `Running this app might put your PC at risk.` which may be ignored, as this program only intends to change the name of a singular directory.
 
-### Required Softwares
-Visual Studio Code can be downloaded at this link: https://code.visualstudio.com/download
-
-Python can be downloaded from the Microsoft Store or at this link: https://www.python.org/downloads/
+The folder named `Cuphead` that can be found when going on Steam and selecting `Browse local files` must already have the correct BepInEx version of Debug Mode configured in order for this program to work.
 
 ### Naming Convention
 The lines of code using the words `Mods` can be changed to whatever the user desires, but that is just a simple placeholder for the time being.
